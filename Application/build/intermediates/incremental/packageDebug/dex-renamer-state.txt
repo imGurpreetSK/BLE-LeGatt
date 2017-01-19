@@ -1,0 +1,7 @@
+#Wed Jan 18 19:00:45 IST 2017
+base.0=/Users/gurpreet/Desktop/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb4ce0f9880889f1f74846326b14e44a6ab65dc3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/gurpreet/Desktop/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3444cf5daf8b35ab2c77b87845d8957bc9a22ccc/classes.dex
+base.1=/Users/gurpreet/Desktop/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3444cf5daf8b35ab2c77b87845d8957bc9a22ccc
+file.0=/Users/gurpreet/Desktop/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb4ce0f9880889f1f74846326b14e44a6ab65dc3/classes.dex
