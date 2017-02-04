@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pubnub-android-3.7.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pubnub/pubnub-android/3.7.10/5ea337b9dcdd6c62a2c45471de5fc6da1af63254/pubnub-android-3.7.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pubnub/pubnub-android/3.7.10/54f8957b9c399c40eb1f1f97129941df6461b56b/pubnub-android-3.7.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
