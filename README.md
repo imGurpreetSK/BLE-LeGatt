@@ -1,5 +1,5 @@
 
-Android BluetoothLeGatt Sample
+Android BluetoothLeGatt
 ===================================
 
 This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
